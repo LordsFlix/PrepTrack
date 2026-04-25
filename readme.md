@@ -2,7 +2,7 @@
 
 ### A High-Performance Productivity Tool for Students
 
-**By ~Shaurya~**
+**By ~Shaurya**
 
 ![PrepTrack Mockup](assets/screenshots/mockup.png)
 
