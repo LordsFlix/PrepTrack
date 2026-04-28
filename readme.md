@@ -1,4 +1,4 @@
-# PrepTrack (v1.2.2) 🎯
+# PrepTrack (v1.3.0) 🎯
 
 ### A High-Performance Productivity Tool for Students
 
@@ -41,7 +41,7 @@ PrepTrack is a specialized desktop application built for students and aspirants 
 
 ### Installation
 
-1. Download the [latest version](https://github.com/LordsFlix/PrepTrack/releases/latest/download/PrepTrack-Setup-v1.2.2.exe) (e.g., `PrepTrack-Setup-v1.2.2.exe`).
+1. Download the [latest version](https://github.com/LordsFlix/PrepTrack/releases/latest/download/PrepTrack-Setup-v1.3.0.exe) (e.g., `PrepTrack-Setup-v1.3.0.exe`).
 2. Run the installer and follow the on-screen instructions.
 3. Once installed, launch **PrepTrack** from your desktop or start menu.
 
